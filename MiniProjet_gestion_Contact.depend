@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1726242266 source:c:\users\mouad\desktop\miniprojet_gestion_contact\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
