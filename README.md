@@ -1,4 +1,4 @@
-# MiniProjet_gestion_Contact
+# MiniProjet_gestion_Contact:
 
 ## Système de Gestion de Contacts
 
@@ -12,7 +12,6 @@ Ce système permet :
 - D'ajouter, modifier, supprimer et rechercher des contacts.
 - De stocker les informations de contact dans des fichiers.
 - D'utiliser des structures de données en C pour une gestion efficace.
-- De s'entraîner aux flux de travail collaboratifs (branches, pull requests, etc.).
 
 ---
 
